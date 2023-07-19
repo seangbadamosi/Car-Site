@@ -42,9 +42,9 @@
   height: 80%;
 }
 
- design{
+ .design{
     position: absolute;
-    top: 0%;
+    top: 370%;
     left: 0%;
 }
 
@@ -59,4 +59,21 @@ ul img{
 
 .padds{
     padding: 1% 20% 1% 20%;
+}
+
+.box-shadow{
+    box-shadow: 2px 2px 4px black;
+}
+
+.box-shadow:hover{
+    box-shadow: 3px 3px 6px rgb(74, 66, 66);
+}
+
+.pads{
+  padding-top: 25%;
+}
+
+.font{
+   font-size: 50px;
+   font-weight: bold;
 }
