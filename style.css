@@ -82,9 +82,6 @@ h6{
     font-size: 20px;
     font-weight: bold;
 }
-.slides img{
-    object-fit: ;
-}
 
 .styles{
     height: 200px !important;
@@ -109,7 +106,7 @@ footer div{
 
 .designs{
     position: absolute;
-    top: 530%;
+    top: 620%;
     left: 0%;
 }
 
@@ -124,4 +121,24 @@ footer div{
 
 .pad-top{
     padding-top: 1% !important;
+}
+
+
+.font-s{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.btns{
+    padding: 0% 35% 0% 35%;
+    box-shadow: none !important;
+}
+
+.space{
+    padding: 5% 0% 10% 0%;
+}
+
+.btns:hover{
+    background-color: #000000 !important;
+    color: #ffffff !important;
 }
