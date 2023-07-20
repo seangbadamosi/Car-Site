@@ -42,9 +42,9 @@
   height: 80%;
 }
 
- .design{
+.design{
     position: absolute;
-    top: 370%;
+    top: 330%;
     left: 0%;
 }
 
@@ -76,4 +76,52 @@ ul img{
 .font{
    font-size: 50px;
    font-weight: bold;
+}
+
+h6{
+    font-size: 20px;
+    font-weight: bold;
+}
+.slides img{
+    object-fit: ;
+}
+
+.styles{
+    height: 200px !important;
+}
+
+.padd-d{
+    padding: 10% 10% 10% 10%;
+}
+
+.dark-blue{
+    background-color: darkblue;
+}
+
+.margin{
+    margin: 1% 1% 1% 10%;
+    /* padding: 10% 10% 10% 10%; */
+}
+
+footer div{
+    padding: 5% 10% 1% 10%;
+}
+
+.designs{
+    position: absolute;
+    top: 530%;
+    left: 0%;
+}
+
+.div{
+    margin-top: 12%;
+    padding: 8% 0% 1% 0%;
+}
+
+.fs{
+    font-size: 30px;
+}
+
+.pad-top{
+    padding-top: 1% !important;
 }
