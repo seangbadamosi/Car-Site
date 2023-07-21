@@ -1,0 +1,58 @@
+.designs{
+    position: absolute;
+    top: 70%;
+    left: 0%;
+}
+
+.text-d{
+    text-decoration: underline;
+}
+
+.dark-blue{
+    background-color: darkblue;
+}
+
+.margin{
+    margin: 1% 1% 1% 10%;
+    padding: 5% 10% 2% 10%;
+}
+
+.spacing{
+    margin: 0% 0% 0% 5% !important;
+    width: 90% !important;
+}
+
+.li{
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    float: left;
+    padding: 0;
+  } 
+
+ ul a {
+  -webkit-transition: background-color .3s;
+  transition: background-color .3s;
+  font-size: 1rem;
+  color: #fff;
+  display: block;
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+.div{
+    margin-top: 12%;
+    padding: 8% 0% 1% 0%;
+}
+
+.fs{
+    font-size: 30px;
+}
+
+.pad-top{
+    padding-top: 1% !important;
+}
+
+h6{
+    font-size: 20px;
+    font-weight: bold;
+}
