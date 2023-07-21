@@ -142,3 +142,26 @@ footer div{
     background-color: #000000 !important;
     color: #ffffff !important;
 }
+
+.spacing{
+    margin: 0% 0% 0% 5% !important;
+    width: 90% !important;
+}
+
+.li{
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    float: left;
+    padding: 0;
+  } 
+
+ ul a {
+  -webkit-transition: background-color .3s;
+  transition: background-color .3s;
+  font-size: 1rem;
+  color: #fff;
+  display: block;
+  padding: 0 10px;
+  cursor: pointer;
+}
+
